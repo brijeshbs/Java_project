@@ -1,1 +1,0 @@
-package chatting.application;
